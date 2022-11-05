@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ValkoinenKissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValkoinenKissa&count_private=true&show_icons=true&theme=radical)
+![ValkoinenKissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValkoinenKissa&count_private=true&show_icons=true&theme=cobalt)
 
 <!--
 **ValkoinenKissa/Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
